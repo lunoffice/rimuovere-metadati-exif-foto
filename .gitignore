@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# immagini di prova e copie pulite
+pulita_*
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.tif
+*.tiff
